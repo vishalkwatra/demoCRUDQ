@@ -19,7 +19,7 @@ public class Student {
 	@Column(nullable = false,name="location")
 	public String location;
 	
-	Student(){
+	public Student(){
 		
 	}
 
