@@ -63,5 +63,11 @@ public class StudentController {
 		
 		return studentRecord.get();
 	}
+	
+	@RequestMapping("/fuzzylocationSearch/{location}")
+	public List<Student> fuzzyLocationSearch(@PathVariable String location) {
+
+		return studentRepoObj.fuzzyLocationStudent(location);
+	}
 
 }

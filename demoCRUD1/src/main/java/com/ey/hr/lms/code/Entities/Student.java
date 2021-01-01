@@ -16,7 +16,7 @@ public class Student {
 	public String firstName;
 	@Column(nullable = false,name="last_name")
 	public String lastName;
-	@Column(nullable = false,name="location")
+	@Column(nullable = false,name="location_student")
 	public String location;
 	
 	public Student(){
