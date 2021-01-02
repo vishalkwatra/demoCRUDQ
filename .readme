@@ -1,0 +1,31 @@
+SAP® Cloud Platform Spring Boot Application With HDI Container as Database With Custom Java SQL Demo Using JDBC Driver, Link to Repository:
+https://github.com/ajaytech/scfHDICRUD
+
+Cloud Foundry Using Spring Application With PostgreSQL DB Link to Repository:
+https://github.com/ajaytech/cfSpringPostSQLDB
+
+Note: Spring Application With PostgreSQL DB in the local machine is the same code as 2nd Point Link
+
+For Section 4.9 Where we cover Microservice App Development With NodeJS, Approuter, Spring With Auth. Using XSUAA in SAP® Cloud Foundry(SCF) :
+=> Starting Code:
+
+You can start the section with this code here:
+
+https://github.com/ajaytech/scfHDICRUD
+
+
+
+=> Java Spring Boot + Approuter + XSUAA Development Code:
+
+XSUAA Implementation With Spring Boot With Approuter the code is here:
+
+https://github.com/ajaytech/MicroserviceSpringAppRouterXSUAA
+
+
+
+=> Final Code of Development:
+
+NodeJS App With UI5 App Using HDI Container, Spring Boot App Using HDI, Both App using XSUAA for Auth. With Approuter, final code here:
+
+https://github.com/ajaytech/MicroserviceNodeSpringAppRoute
+
